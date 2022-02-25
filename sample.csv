@@ -1,6 +1,4 @@
 Name, SMILE
-Benzene,C1=CC=CC=C1
-Methanol,CO
 Propane,CCC
 Methyl Acetate,CC(=O)OC
 t-Butyl Acetate,CC(=O)OC(C)(C)C
@@ -8,6 +6,8 @@ Methyl Formate,COC=O
 Ethyl Acetate,CCOC(=O)C
 n-Butane,CCCC
 Isobutylene,CC(=C)C
+Benzene,C1=CC=CC=C1
+Methanol,CO
 n-Butyl Isocyanate,CCCCN=C=O
 Methyl Butyrate,CCCC(=O)OC
 n-Butylamine,CCCCN
